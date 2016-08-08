@@ -1,0 +1,10 @@
+{
+    "gitlens.codeLens.enabled": false,
+    "gitlens.blame.format": "${message|13?} ${agoOrDate|11-}",
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.colorCustomizations": {
+        "panel.background": "#141414",
+        "sideBar.background": "#141414",
+        "editor.background": "#141414"
+    }
+}
