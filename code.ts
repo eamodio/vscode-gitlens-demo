@@ -2,9 +2,9 @@
 
 
 
-
-
-
+function supercharged(code: string) {
+	return `supercharged ${code}`;
+}
 
 
 
@@ -13,7 +13,7 @@
 
 
 function gitLens(code: string) {
-	return code;
+	return supercharged(code);
 }
 
 
